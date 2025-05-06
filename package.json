@@ -1,0 +1,24 @@
+{
+  "name": "gas-buddy-app",
+  "version": "1.0.0",
+  "description": "This Backend will have all the APIs related to Gas Buddy Prices",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gas-buddy-app.git"
+  },
+  "keywords": [
+    "Gas",
+    "Prices",
+    "NearBy"
+  ],
+  "author": "Ekta",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0"
+  }
+}
